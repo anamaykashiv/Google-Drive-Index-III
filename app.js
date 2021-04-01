@@ -3284,7 +3284,7 @@
     function e() {
       if (u) {
         (s.style.cssText =
-          "position:absolute;left:-11111px;width:60px;margin-top:1px;padding:0;border:0"),
+          "position:absolute;left:-11111px;width:100px;margin-top:1px;padding:0;border:0"),
           (u.style.cssText =
             "position:relative;display:block;box-sizing:border-box;overflow:scroll;margin:auto;border:1px;padding:1px;width:60%;top:1%"),
           ie.appendChild(s).appendChild(u);
@@ -5517,8 +5517,7 @@ function init() {
         UI.disable_navicon == true ? "none" : "block"
       }">
 				<ul class="menu_ul">
-					<li class="menu_li"><a href="https://telegram.dog/sawankumar" target="_blank">Contact</a></li>
-					<li class="menu_li"><a href="https://github.com/sawankumar/Google-Drive-Index-III" target="_blank">Github</a></li>
+					<li class="menu_li"><a href="https://telegram.dog/AnamayKashiv" target="_blank">Contact</a></li>
 				</ul>
 				<div class="nav_icon" ></div>
 			</div>
